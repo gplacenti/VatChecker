@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="VatChecker.API/VatChecker.API.csproj" />
+  <Project Path="VatChecker.Business/VatChecker.Business.csproj" />
+  <Project Path="VatChecker.Contracts/VatChecker.Contracts.csproj" Id="448d48ea-67f6-4a41-96bd-60a91a4670c2" />
+  <Project Path="VatChecker.DataAccess/VatChecker.DataAccess.csproj" />
+  <Project Path="VatChecker.Models/VatChecker.Models.csproj" />
+</Solution>
